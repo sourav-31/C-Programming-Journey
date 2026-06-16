@@ -1,0 +1,17 @@
+#include <stdio.h>
+int main(){
+    for(int i = 0; i < 15; i++)
+    {
+        if (i=5)
+        {
+            continue; // skip this iteration now!
+        }
+         printf("i is %d\n",i);
+        
+        if(i == 10)
+        {
+            break; //exit the loop now!
+        }
+    }
+return 0;
+}
