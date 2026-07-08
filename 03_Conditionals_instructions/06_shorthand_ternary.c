@@ -6,3 +6,4 @@ int main(){
     a>b ? printf("a is greater\n") : printf("b is greater\n"); //semicolon will only be written at the end of line
 return 0;
 }
+//not in university syllabus
