@@ -7,7 +7,7 @@
 int main() {
     int randomNumber;
     int guessedNumber;
-    int no_of_guesses = 0;
+    int no_of_guesses = 0; //counting variable
     // Seed the random number generator
     srand(time(0));
 
