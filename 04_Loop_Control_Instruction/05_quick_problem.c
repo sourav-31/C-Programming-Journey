@@ -11,4 +11,4 @@ int main(){
     }
     
 return 0;
-}
+} // also can be done by initializing i with 10
